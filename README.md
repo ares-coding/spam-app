@@ -2,15 +2,20 @@ Spam Message Detector
 
 ## 🖼️ App Preview
 
+## 🖼️ App Preview
+
 ### ✅ Ham (Not Spam)
-![Ham Message Detection](assets/notspam.png)
+<img src="assets/notspam.png" width="700"/>
 
 Normal messages are correctly identified as **Not Spam (HAM)** with a high confidence score.
 
 ---
 
 ### 🚨 Spam Detection
-![Spam Message Detection](assets/spam.png)
+<img src="assets/spam.png" width="700"/>
+
+Spam messages are clearly flagged with a warning indicator and a confidence progress bar.
+
 
 Spam messages are clearly flagged with a warning indicator and a confidence progress bar.
 
@@ -82,6 +87,7 @@ NumPy
 
 
 How to Run Locally
+
 1️⃣ Clone the repository
 git clone https://github.com/ares-coding/spam-app.git
 cd spam-app
