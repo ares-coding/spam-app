@@ -40,8 +40,11 @@ if st.button("Check Message"):
     if user_input.strip() == "":
         st.warning("⚠️ Please enter a message.")
     else:
-        pred = predict_spam(user_input)
-        if pred > 0.5:
-            st.error("🚨 This message is SPAM")
-        else:
-            st.success("✅ This message is NOT spam (HAM)")
+       pred = predict_spam(user_input)
+confidence = pred * 100
+
+if pred > 0.5:
+    st.error(f"🚨 This message is SPAM ({confidence:.2f}%)")
+else:
+    st.success(f"✅ This message is NOT spam (HAM) ({100 - confidence:.2f}%)")
+
