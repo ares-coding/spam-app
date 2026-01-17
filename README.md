@@ -2,8 +2,6 @@ Spam Message Detector
 
 ## 🖼️ App Preview
 
-## 🖼️ App Preview
-
 ### ✅ Ham (Not Spam)
 <img src="assets/notspam.png" width="700"/>
 
