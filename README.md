@@ -1,5 +1,12 @@
 Spam Message Detector
 
+## 🖼️ App Preview
+
+### ✅ Ham (Not Spam)
+![Ham Message Detection](assets/notspam.png)
+
+Normal messages are correctly identified as **Not Spam (HAM)** with a high confidence score.
+
 A Streamlit-based NLP Spam Message Detection application that classifies text messages as Spam or Not Spam (Ham) using Machine Learning.
 
 🔗 Live Demo:
