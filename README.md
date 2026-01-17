@@ -3,8 +3,8 @@ Spam Message Detector
 A Streamlit-based NLP Spam Message Detection application that classifies text messages as Spam or Not Spam (Ham) using Machine Learning.
 
 🔗 Live Demo:
-👉 [https://spam-app-ejapr7vs24uvpnxzuf9x.streamlit.app](https://spam-app-ejapr7vs24uvpnxzuf9x.streamlit.app
-)
+👉 https://nlp-spam-detector.streamlit.app/
+
 
 ✨ Features
 
@@ -54,21 +54,17 @@ Prediction confidence shown as a percentage
 
 Visualized using a progress bar for better UX
 
+
+
 🛠️ Tech Stack
-
 Python
-
 Streamlit
-
 TensorFlow / Keras
-
 Scikit-learn
-
 NLTK
-
 Joblib
-
 NumPy
+
 
 How to Run Locally
 1️⃣ Clone the repository
