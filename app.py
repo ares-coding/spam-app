@@ -30,7 +30,11 @@ st.set_page_config(page_title="Spam Detector", page_icon="📩")
 st.title("📩 Spam Message Detector")
 st.write("Paste a message below to check if it is **Spam** or **Not Spam (Ham)**.")
 
-user_input = st.text_area("Enter your message:")
+user_input = st.text_area(
+    "Enter your message:",
+    placeholder="e.g. Congratulations! You won ₱50,000. Click the link to claim your prize!"
+)
+
 
 if st.button("Check Message"):
     if user_input.strip() == "":
