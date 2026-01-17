@@ -1,6 +1,8 @@
 Spam Message Detector
+---
 
 ## 🖼️ App Preview
+---
 
 ### ✅ Ham (Not Spam)
 <img src="assets/notspam.png" width="700"/>
@@ -14,8 +16,7 @@ Normal messages are correctly identified as **Not Spam (HAM)** with a high confi
 
 Spam messages are clearly flagged with a warning indicator and a confidence progress bar.
 
-
-Spam messages are clearly flagged with a warning indicator and a confidence progress bar.
+---
 
 
 A Streamlit-based NLP Spam Message Detection application that classifies text messages as Spam or Not Spam (Ham) using Machine Learning.
@@ -23,6 +24,7 @@ A Streamlit-based NLP Spam Message Detection application that classifies text me
 🔗 Live Demo:
 👉 https://nlp-spam-detector.streamlit.app/
 
+---
 
 ✨ Features
 
@@ -41,6 +43,8 @@ A Streamlit-based NLP Spam Message Detection application that classifies text me
 ☁️ Deployed on Streamlit Cloud
 
 🧠 How It Works (Model Overview)
+---
+
 
 Text Preprocessing
 
@@ -72,6 +76,7 @@ Prediction confidence shown as a percentage
 
 Visualized using a progress bar for better UX
 
+---
 
 
 🛠️ Tech Stack
@@ -83,6 +88,7 @@ NLTK
 Joblib
 NumPy
 
+---
 
 How to Run Locally
 
@@ -96,6 +102,7 @@ pip install -r requirements.txt
 3️⃣ Run the app
 streamlit run app.py
 
+---
 
 🧪 Sample Test Messages
 ✅ Not Spam (Ham)
@@ -104,16 +111,21 @@ Hi, are we still meeting later at 5pm?
 🚨 Spam
 Congratulations! You won ₱50,000. Click the link now to claim your prize!
 
+---
 
 ⚠️ Disclaimer
 
 This application is for educational and demonstration purposes only.
 Prediction confidence does not guarantee absolute certainty.
 
+---
+
 ⭐️ If you like this project
 
 Feel free to star the repository and try the live demo!
 
+
+---
 
 👤 Author
 
