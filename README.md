@@ -1,25 +1,33 @@
-# Spam Message Detector
+# 🛡️ Spam Detection System
 
-A Streamlit-based NLP Spam Message Detection application using Machine Learning.
+A premium, Streamlit-powered NLP application for real-time Spam Message Detection using Neural Networks.
 
-## Features
-- Classifies messages as **Spam** or **Not Spam (Ham)**
-- Uses TF-IDF vectorization
-- Trained with a TensorFlow/Keras model
-- Simple and clean Streamlit UI
+![App Preview](assets/spam-app.png)
 
-## Tech Stack
-- Python
-- Streamlit
-- TensorFlow / Keras
-- Scikit-learn
-- NLTK
-- Joblib
+## ✨ Features
+- **Intelligent Classification**: Distinguishes between **Spam**, **Phishing**, and **Legitimate (Ham)** messages.
+- **Neural Engine**: Powered by a TensorFlow/Keras deep learning model.
+- **Optimized Performance**: Resource caching for instantaneous analysis.
+- **Premium UI**: Modern dark-themed dashboard with glassmorphism aesthetics.
+- **Interactive Examples**: Built-in test cases for quick verification.
 
-## How to Run Locally
-```bash
-pip install -r requirements.txt
-streamlit run app.py
+## 🛠️ Tech Stack
+- **Frontend**: Streamlit (Python)
+- **Deep Learning**: TensorFlow / Keras
+- **NLP**: NLTK, Scikit-learn (TF-IDF Vectorization)
+- **Data Handling**: Joblib, NumPy
 
+## 🚀 Getting Started
 
-Author: Ares Coding 
+1. **Clone & Install**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+2. **Run the Dashboard**
+   ```bash
+   streamlit run app.py
+   ```
+
+---
+*Developed with ❤️ by **Ares Coding***
