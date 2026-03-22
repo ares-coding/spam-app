@@ -210,8 +210,7 @@ This project is licensed under the MIT License.
 
 ## 👤 Author
 
-**Au Amores** - Full Stack Developer & ML Engineer
+**Au Amores** - Ai/ML Engineer
 
-Made with 🧠 and ☕ by [Ares](https://github.com/ares-coding)
 
 </div>
