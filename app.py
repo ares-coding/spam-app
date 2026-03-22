@@ -102,7 +102,7 @@ with st.sidebar:
     st.write("- Short messages may have lower confidence.")
     
     st.divider()
-    st.write("Developed by **Ares Coding**")
+    st.write("Developed by **Au Amores**")
 
 # --- MAIN UI ---
 col1, col2 = st.columns([2, 1])
