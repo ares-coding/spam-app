@@ -1,0 +1,18 @@
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE Settings
+.vscode/
+.idea/
+
+# Large Model Files (Optional: remove if you want to commit them)
+# spam_classifier.keras
+# tfidf_vectorizer.pkl
