@@ -7,7 +7,7 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![License](https://img.shields.io/badge/License-MIT-22C55E?style=for-the-badge)](LICENSE)
+[![License](https://img.shields.io/badge/License-Apache%202.0-22C55E?style=for-the-badge)](LICENSE)
 
 ![Project Banner](assets/spam-app.png)
 
@@ -83,8 +83,6 @@ With over **45% of SMS messages being spam** globally, this tool helps:
 # Launch the Streamlit app
 streamlit run app.py
 ```
-
-![Demo Screenshot](assets/spam-app.png)
 
 ---
 
@@ -204,7 +202,7 @@ Contributions welcome! Please follow these steps:
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the Apache License 2.0.
 
 ---
 
