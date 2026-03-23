@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🛡️ Spam Detection System
+# Spam Detection System
 
 ### NLP-Powered SMS Spam Classifier with Real-Time Confidence Scoring
 
@@ -17,66 +17,66 @@
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 
-- [Overview](#-overview)
-- [Features](#-features)
-- [Demo](#-demo)
-- [How It Works](#-how-it-works)
-- [Tech Stack](#-tech-stack)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Model Architecture](#-model-architecture)
-- [Performance](#-performance)
-- [Dataset](#-dataset)
-- [API Documentation](#-api-documentation)
-- [Deployment](#-deployment)
-- [Contributing](#-contributing)
-- [License](#-license)
+- [Overview](#overview)
+- [Features](#features)
+- [Demo](#demo)
+- [How It Works](#how-it-works)
+- [Tech Stack](#tech-stack)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Model Architecture](#model-architecture)
+- [Performance](#performance)
+- [Dataset](#dataset)
+- [API Documentation](#api-documentation)
+- [Deployment](#deployment)
+- [Contributing](#contributing)
+- [License](#license)
 
 ---
 
-## 🎯 Overview
+## Overview
 
 A **machine learning-powered application** that identifies spam messages using **Natural Language Processing (NLP)**. The system:
 
-- 📱 Analyzes SMS/text messages in real-time
-- 🎯 Classifies text as **Spam** or **Ham** (legitimate)
-- 📊 Provides confidence scores for predictions
-- ⚡ Processes messages instantly with <100ms latency
-- 🎨 Features an intuitive web interface
+- Analyzes SMS/text messages in real-time
+- Classifies text as **Spam** or **Ham** (legitimate)
+- Provides confidence scores for predictions
+- Processes messages instantly with <100ms latency
+- Features an intuitive web interface
 
 ### Why This Matters
 
 With over **45% of SMS messages being spam** globally, this tool helps:
 
-- 🛡️ Protect users from phishing attempts
-- 💰 Prevent financial scams
-- 🔒 Filter malicious links and content
-- ⏰ Save time by auto-filtering unwanted messages
+- Protect users from phishing attempts
+- Prevent financial scams
+- Filter malicious links and content
+- Save time by auto-filtering unwanted messages
 
 ---
 
-## ✨ Features
+## Features
 
-### 🤖 Core Capabilities
+### Core Capabilities
 
-- ✅ **NLP-Based Classification** - Advanced text processing
-- ✅ **TF-IDF Vectorization** - Smart feature extraction
-- ✅ **Deep Learning Model** - TensorFlow/Keras neural network
-- ✅ **Real-Time Prediction** - Instant message analysis
-- ✅ **Confidence Scoring** - Probability-based results
-- ✅ **Interactive Dashboard** - Streamlit web interface
+- **NLP-Based Classification** - Advanced text processing
+- **TF-IDF Vectorization** - Smart feature extraction
+- **Deep Learning Model** - TensorFlow/Keras neural network
+- **Real-Time Prediction** - Instant message analysis
+- **Confidence Scoring** - Probability-based results
+- **Interactive Dashboard** - Streamlit web interface
 
-### 📊 Advanced Features
+### Advanced Features
 
-- ✅ **Pattern Recognition** - Identify common spam patterns
-- ✅ **URL Detection** - Flag suspicious links
-- ✅ **Phone Number Extraction** - Identify spam sender patterns
+- **Pattern Recognition** - Identify common spam patterns
+- **URL Detection** - Flag suspicious links
+- **Phone Number Extraction** - Identify spam sender patterns
 
 ---
 
-## 🎬 Demo
+## Demo
 
 ### Web Interface
 ```bash
@@ -88,7 +88,7 @@ streamlit run app.py
 
 ---
 
-## 🔬 How It Works
+## How It Works
 
 ### Processing Pipeline
 ```
@@ -133,7 +133,7 @@ streamlit run app.py
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend**: Streamlit
 - **Machine Learning**: TensorFlow / Keras
@@ -142,7 +142,7 @@ streamlit run app.py
 
 ---
 
-## 📥 Installation
+## Installation
 
 ```bash
 # 1. Clone & Activate 
@@ -158,7 +158,7 @@ streamlit run app.py
 
 ---
 
-## 🧠 Model Architecture
+## Model Architecture
 
 ### Neural Network Structure
 ```python
@@ -181,7 +181,7 @@ model = Sequential([
 
 ---
 
-## 📊 Performance
+## Performance
 
 | Metric | Score |
 |--------|-------|
@@ -191,7 +191,7 @@ model = Sequential([
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions welcome! Please follow these steps:
 
@@ -202,15 +202,12 @@ Contributions welcome! Please follow these steps:
 
 ---
 
-## 📝 License
+## License
 
 This project is licensed under the MIT License.
 
 ---
 
-## 👤 Author
+## Author
 
-**Au Amores** - Ai/ML Engineer
-
-
-</div>
+**Au Amores** - AI/ML Engineer
